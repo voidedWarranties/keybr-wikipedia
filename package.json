@@ -1,0 +1,15 @@
+{
+  "name": "randomwiki",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "voidedWarranties",
+  "license": "WTFPL",
+  "dependencies": {
+    "express": "^4.16.4",
+    "wtf_wikipedia": "^7.2.10"
+  }
+}
